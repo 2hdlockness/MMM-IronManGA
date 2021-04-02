@@ -8,6 +8,6 @@ Needed: [MMM-GABackground](https://github.com/bugsounet/MMM-GABackground)
 ```
 cd ~/MagicMirror/modules
 https://github.com/2hdlockness/MMM-IronManGA
-cd MMM-GABackground
+cd MMM-IronManGA
 npm install
 ```

@@ -45,10 +45,6 @@ Open your prefered editor and edit the recipe which can be found in MMM-GoogleAs
 
   You have just to replace the value of `var model=` by `var model="IronManGABA"`<br>
   By default `"jarvis"` is selected.<br>
-  
-## Notes:
- * For working GoogleAssistant need the `fullscreen_above` position !
- * No other configuration needed in config.js !
 
 ## Credits
 - Author :

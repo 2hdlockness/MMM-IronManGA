@@ -1,7 +1,7 @@
 # MMM-IronManGA
 Custom theme for MMM-GABackground & MMM-GoogleAssistant module
 
-Needed: [MMM-GoogleAssistant](https://github.com/bugsounet/MMM-GoogleAssistant)
+Needed: [MMM-GoogleAssistant](https://github.com/bugsounet/MMM-GoogleAssistant)<br>
 Needed: [MMM-GABackground](https://github.com/bugsounet/MMM-GABackground)
 
 ## Installation:

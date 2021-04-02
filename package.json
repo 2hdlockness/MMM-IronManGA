@@ -1,0 +1,17 @@
+{
+  "name": "MMM-IronManGA",
+  "version": "1.0.0",
+  "description": "Jarvis IronMan theme for MMM-GoogleAssistant",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2hdlockness/MMM-IronManGA"
+  },
+  "scripts": {
+    "postinstall": "installer/postinstall.sh"
+  },
+  "author": "@2hdlockness",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2hdlockness/MMM-IronManGA/issues"
+  },
+},

@@ -12,6 +12,8 @@ When GoogleAssistant is listening<br>
 When GoogleAssistant answers you<br>
 ![](https://github.com/2hdlockness/MMM-IronManGA/blob/main/IronManGABA/reply.gif)
 
+And many other effect...
+
 ## Installation:
 ```
 cd ~/MagicMirror/modules

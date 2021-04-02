@@ -1,0 +1,82 @@
+
+/*
+*   Personnalisation du module GA / A2D
+*/
+
+#GA_DOM {
+  margin-left: 65px;
+  background-image: url(./IronManGA/GA_Big.png);
+}
+
+#GA {
+  background-color:#000000;
+}
+
+#GA_STATUS {
+  background-color:#000000;
+}
+
+#GA_TRANSCRIPTION {
+  background-color:#000000;
+}
+
+#GA_TRANSCRIPTION p {
+  color:#849fb8;
+}
+#GA_LOGO {
+  background-color:#000000;
+  background-image:url('./IronManGA/GA_Small.png');
+ }
+#GA_STATUS.reply {
+  background-image:url('./IronManGA/reply.gif');
+}
+
+#GA_STATUS.error {
+  background-image:url('./IronManGA/error.gif');
+}
+
+#GA_STATUS.think {
+  background-image:url('./IronManGA/think.gif');
+}
+
+#GA_STATUS.continue {
+  background-image:url('./IronManGA/continue.gif');
+}
+
+#GA_STATUS.listen {
+  background-image:url('./IronManGA/listen.gif');
+}
+
+#GA_STATUS.confirmation {
+  background-image:url('./IronManGA/confirmation.gif');
+}
+
+#GA_STATUS.standby {
+  background-image:url('./IronManGA/standby.gif');
+}
+
+#GA_STATUS.hook {
+  background-image:url('./IronManGA/hook.gif');
+}
+ 
+#A2D_TRANSCRIPTION {
+  background-color: #000000;
+  position:absolute;
+  width:100%;
+} 
+#A2D_TRANSCRIPTION p {
+  color: #849fb8;
+  text-align:center;
+  margin-right: 300px;
+  font-size: 28px;
+  line-height:30px;
+}
+#A2D_CONTENER {
+  background-color: #000000;
+}
+#A2D_LOGO {
+  background-image:url('./IronManGA/GA_Small.png');
+}
+#A2D_YOUTUBE {
+  margin-top: 100px;
+}

@@ -50,7 +50,8 @@ recipes: [ "with-MMM-TelegramBot.js", "with-IronMan.js"],
  * This theme is optimized for use in portrait mode. If using in landscape mode you will probably need to make some modifications in the custom.css
 
 ## Donate
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=DQW6PLJLDDB8L), if you love this theme !
+If you love this theme !<br>
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=DQW6PLJLDDB8L)
 
 
 ## Credits

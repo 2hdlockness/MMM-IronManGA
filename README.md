@@ -19,7 +19,7 @@ And many other effect...
 ## Installation:
 ```
 cd ~/MagicMirror/modules
-https://github.com/2hdlockness/MMM-IronManGA
+git clone https://github.com/2hdlockness/MMM-IronManGA
 cd MMM-IronManGA
 npm install
 ```

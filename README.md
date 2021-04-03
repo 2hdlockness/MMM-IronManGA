@@ -45,6 +45,9 @@ Open your prefered editor and edit the recipe which can be found in MMM-GoogleAs
 
   You have just to replace the value of `var model=` by `var model="IronManGABA"`<br>
   By default `"jarvis"` is selected.<br>
+  
+## Notes:
+ * This theme is optimized for use in portrait mode. If using in landscape mode you will probably need to make some modifications in the custom.css
 
 ## Credits
 - Author :

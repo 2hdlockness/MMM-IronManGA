@@ -10,7 +10,7 @@ var recipe = {
       moduleExec: {
         module: ["MMM-GoogleAssistant"],
         exec: (module,param,from) => {
-          var model= "MMM-GABackground"
+          var model= "IronManGABA"
 
           var status = param.status.actual
           var GA = document.getElementById("GA_DOM")

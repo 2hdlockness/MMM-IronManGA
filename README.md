@@ -26,7 +26,7 @@ npm install
 
 ## Configuration:
 
-You must add the contents of the `custom.css` file to your custom.css file.
+You must add the contents of the [custom.css file](https://raw.githubusercontent.com/2hdlockness/MMM-IronManGA/main/custom.css) to your custom.css file of MagicMirror.
 
 If you don't have one you can directly copy the `custom.css` file to `~/MagicMirror/css` with this command:
 ```sh

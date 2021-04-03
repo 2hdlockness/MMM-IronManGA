@@ -49,6 +49,14 @@ recipes: [ "with-MMM-TelegramBot.js", "with-IronMan.js"],
 ## Notes:
  * This theme is optimized for use in portrait mode. If using in landscape mode you will probably need to make some modifications in the custom.css
 
+## Donate
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="YQ3Z49NV5WP4C" />
+<input type="image" src="https://www.paypalobjects.com/en_US/FR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_FR/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+
 ## Credits
 - Author :
   - @2hdlockness
